@@ -28,7 +28,7 @@ Steps:
 Contents:
 --------
 - Provide the cluster name for the parameter "spring.redis.cluster.nodes" in the file "springboot-data-cme-lab/src/main/resources/application.properties"
-spring.redis.cluster.nodes=clustercfg.cache.amazonaws.com:6379
+- `spring.redis.cluster.nodes=clustercfg.cache.amazonaws.com:6379`
 
 Testing:
 --------
